@@ -1,5 +1,5 @@
 /*!
- * Michael Blog v1.7.0 (http://huxpro.github.io)
+ * Michael Blog v1.7.0 (http://cmx1.github.io)
  * Copyright 2018 Michael <2507217220@qq.com>
  */
 
